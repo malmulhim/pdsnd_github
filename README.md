@@ -4,14 +4,19 @@
 Include the date you created this project and README file.
 
 ### Project Title
-Replace the Project Title
+bikeshare.py
 
 ### Description
-Describe what your project is about and what it does
+Over the past decade, bicycle-sharing systems have been growing in number and popularity in cities across the world. Bicycle-sharing systems allow users to rent bicycles on a very short-term basis for a price. This allows people to borrow a bike from point A and return it at point B, though they can also return it to the same location if they'd like to just go for a ride. Regardless, each bike can serve several users per day.
 
 ### Files used
-Include the files used
+- Python 3, NumPy, and pandas installed using Anaconda
+- A text editor, like Sublime or Atom.
+- A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
+
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Rise, udacity 
 
+
+This File updated by: Muneerah
